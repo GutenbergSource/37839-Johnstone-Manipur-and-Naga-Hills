@@ -1,0 +1,36 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="217" filedate="2018-06-28 20:47:23" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="151" filedate="2018-06-28 20:47:23" width="12px" height="12px">
+</image>
+<image path="images/frontcover.jpg" filesize="48629" filedate="2018-09-01 19:41:20" width="480px" height="720px">
+</image>
+<image path="images/frontispiece.jpg" filesize="63682" filedate="2018-09-01 19:41:20" width="508px" height="720px">
+</image>
+<image path="images/map.gif" filesize="58683" filedate="2018-09-01 19:41:20" width="720px" height="552px">
+</image>
+<image path="images/maph.gif" filesize="239584" filedate="2018-09-01 19:41:21" width="1755px" height="1346px">
+</image>
+<image path="images/newcover-small.jpg" filesize="40110" filedate="2018-09-01 19:41:21" width="339px" height="488px">
+</image>
+<image path="images/newcover.jpg" filesize="119836" filedate="2018-09-01 19:41:21" width="678px" height="976px">
+</image>
+<image path="images/p006.jpg" filesize="77976" filedate="2018-09-01 19:41:21" width="720px" height="481px">
+</image>
+<image path="images/p014.jpg" filesize="79676" filedate="2018-09-01 19:41:21" width="720px" height="450px">
+</image>
+<image path="images/p023.jpg" filesize="89777" filedate="2018-09-01 19:41:21" width="513px" height="684px">
+</image>
+<image path="images/p048.jpg" filesize="79565" filedate="2018-09-01 19:41:21" width="618px" height="519px">
+</image>
+<image path="images/p127.jpg" filesize="76959" filedate="2018-09-01 19:41:21" width="720px" height="473px">
+</image>
+<image path="images/p157.jpg" filesize="81873" filedate="2018-09-01 19:41:21" width="720px" height="454px">
+</image>
+<image path="images/p268.jpg" filesize="58968" filedate="2018-09-01 19:41:21" width="451px" height="507px">
+</image>
+<image path="images/titlepage.gif" filesize="10148" filedate="2018-09-01 19:41:21" width="432px" height="720px">
+</image>
+</images>
